@@ -1,11 +1,6 @@
-# Botonera Virtual de Sons
+# Botonera virtual de sons
 
-Aquesta és una aplicació d’escriptori creada amb **Python** que emula una **botonera física**.  
-Està dissenyada per a pòdcasts, streamings o qualsevol situació en què calgui **llançar efectes de so ràpidament**.  
-
-El projecte s’ha desenvolupat mitjançant *vibe coding* amb **Google Gemini** i **ChatGPT**,  
-i inclou funcions avançades com **assignació de tecles globals**, **perfils configurables** i un **enregistrador d’àudio integrat**.
-
+Aquesta és una aplicació d’escriptori creada amb **Python** que emula una **botonera física**. Està dissenyada per a pòdcasts, streamings o qualsevol situació en què calgui **llançar efectes de so ràpidament**. El projecte s’ha desenvolupat mitjançant *vibe coding* amb **Google Gemini** i **ChatGPT**, i inclou funcions avançades com **assignació de tecles globals**, **perfils configurables** i un **enregistrador d’àudio integrat**.
 
 
 ## Característiques Principals
